@@ -1,3 +1,4 @@
 This is a first line
 This is a second line
 I am updating my changes in line third
+This is fourth line in second branch
